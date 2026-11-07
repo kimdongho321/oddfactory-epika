@@ -1,0 +1,12 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+ android:description="@string/display_access_description"
+ android:accessibilityEventTypes="@integer/display_zero"
+ android:accessibilityFeedbackType="feedbackGeneric"
+ android:accessibilityFlags="@integer/display_zero"
+ android:notificationTimeout="0"
+ android:canRetrieveWindowContent="false"
+ android:canPerformGestures="false"
+ android:canRequestFilterKeyEvents="false"
+ android:canRequestTouchExplorationMode="false"
+ android:canControlMagnification="false"
+ android:canRequestFingerprintGestures="false" />
